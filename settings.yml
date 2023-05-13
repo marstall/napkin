@@ -1,0 +1,10 @@
+whitelisted_fruits:
+  default: apples|oranges
+  type: list
+
+favorite_fruit:
+  default: orange
+  type: enum
+  choices:
+    - apple
+    - banana
