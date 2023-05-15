@@ -14,7 +14,7 @@ year:
   2022
 
 banner_links:
-  default: >-
+  default: 
     [{"icon":"info-circle","text":"about this site","url":"/faq"},
     {"icon":"users","text":"meet our staff","url":"/about"},
     {"icon":"star","text":"your preferences","url":"/my/preferences"}]
