@@ -8,7 +8,4 @@ favorite_fruit:
   choices:
     - apple
     - banana
-
-age:
-  default: 18
-	
+    - plum
