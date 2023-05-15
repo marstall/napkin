@@ -1,0 +1,6 @@
+en: 
+  my_translation_key: "I love themes"
+  theme_metadata: # These are used in the admin panel. They are not made available to your js/hbs files
+    description: This theme lets you do amazing things on your Discourse
+    settings:
+      fruit: A description of the whitelisted_fruits setting
